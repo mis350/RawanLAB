@@ -10,6 +10,8 @@ def rawan_view(request):
          <body> 
              <h1> hi this is your lab work  </h1>         
                 <p> welcome to mis 350 course {name}  </p>      
+
+                <p> here is a link to google <a href= "www.google.com">  goolge </p>
          </body>          
     </html> """)
 
